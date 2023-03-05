@@ -13,7 +13,7 @@ public class Square extends Rectangle {
 
     @Override
     public void setSideB(int sideB) {
-        super.setSideA(sideB);
+        super.setSideB(sideB);
     }
 
     @Override
