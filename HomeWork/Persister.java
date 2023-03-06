@@ -1,4 +1,4 @@
-public class Persister{
+public class Persister implements UserSaveAble{
 	private User user;
 	
 	public Persister(User user){
